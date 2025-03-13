@@ -1,4 +1,4 @@
-steps:
+Steps:
 1. Create a new uv project by running `uv init hello_chainlit`
 2. "uv venv" for creating a virtual environment. Activate it by running `source .venv/bin/activate`
 3. Install Chainlit by running `uv add chainlit`
